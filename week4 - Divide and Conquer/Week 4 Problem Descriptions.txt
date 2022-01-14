@@ -1,0 +1,50 @@
+WEEK 4 PROBLEM DESCRIPTIONS
+
+-------------------------------------------------
+1) binary_search
+
+The goal in this code problem is to implement the binary search algorithm.
+
+-------------------------------------------------
+2) binary_search_duplicates
+
+The goal in this code problem is to implement the binary search algorithm where duplicate elements
+are possible.
+
+-------------------------------------------------
+3) majority_element
+
+The goal in this code problem is to check whether an input sequence contains a majority element.
+(an element such that over half of the items in the input sequence are the element)
+
+-------------------------------------------------
+4) improving_quicksort
+
+To force the given implementation of the quick sort algorithm to efficiently process sequences with
+few unique elements, your goal is replace a 2-way partition with a 3-way partition. That is, your new
+partition procedure should partition the array into three parts: < 𝑥 part, = 𝑥 part, and > 𝑥 part.
+
+-------------------------------------------------
+5) number_of_inversions
+
+An inversion of a sequence 𝑎0, 𝑎1, . . . , 𝑎𝑛−1 is a pair of indices 0 ≤ 𝑖 < 𝑗 < 𝑛 such
+that 𝑎𝑖 > 𝑎𝑗 . The number of inversions of a sequence in some sense measures how
+close the sequence is to being sorted.
+
+The goal in this problem is to count the number of inversions of a given sequence
+
+-------------------------------------------------
+6) organizing_a_lottery
+
+You are given a set of points on a line and a set of segments on a line. The goal is to compute, for
+each point, the number of segments that contain this point.
+
+-------------------------------------------------
+7) closest_points
+
+Given 𝑛 points on a plane, find the smallest distance between a pair of two (different) points. Recall
+that the distance between points (x1, y1) and (x2, y2) is equal to √︀(x1 − x2)^2 + (y1 − y2)^2
+
+-------------------------------------------------
+
+

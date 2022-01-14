@@ -1,0 +1,13 @@
+WEEK 1 PROBLEM DESCRIPTIONS
+
+-------------------------------------------------
+1) aplusb
+
+print the sum of two numbers
+
+-------------------------------------------------
+2) max_pairwise_product
+
+find the max pairwise product for a list of integers
+
+-------------------------------------------------

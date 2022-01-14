@@ -1,0 +1,46 @@
+WEEK 2 PROBLEM DESCRIPTIONS
+
+-------------------------------------------------
+1) fibonacci_number
+
+Given an integer 𝑛, find the 𝑛th Fibonacci number 𝐹𝑛
+
+-------------------------------------------------
+2) last_digit_of_fibonacci_number
+
+Given an integer 𝑛, find the last digit of the 𝑛th Fibonacci number 𝐹𝑛 (that is, 𝐹𝑛 mod 10)
+
+-------------------------------------------------
+3) greatest_common_divisor
+
+Given two integers 𝑎 and 𝑏, find their greatest common divisor
+
+-------------------------------------------------
+4) least_common_multiple
+
+Given two integers 𝑎 and 𝑏, find their least common multiple
+
+-------------------------------------------------
+5) fibonacci_number_again
+
+Given two integers 𝑛 and 𝑚, output 𝐹𝑛 mod 𝑚 (that is, the remainder of 𝐹𝑛 when divided by 𝑚)
+
+-------------------------------------------------
+6) last_digit_of_the_sum_of_fibonacci_numbers
+
+Given an integer 𝑛, find the last digit of the sum 𝐹0 + 𝐹1 + · · · + 𝐹𝑛
+
+-------------------------------------------------
+7) last_digit_of_the_sum_of_fibonacci_numbers_again
+
+Given two non-negative integers 𝑚 and 𝑛, where 𝑚 ≤ 𝑛, find the last digit of the sum 𝐹𝑚 + 𝐹𝑚+1 +
+· · · + 𝐹𝑛
+
+-------------------------------------------------
+8) last_digit_of_the_sum_of_squares_of_fibonacci_numbers
+
+Compute the last digit of the first n squared fibonacci numbers 
+
+
+-------------------------------------------------
+
